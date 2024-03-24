@@ -23,3 +23,11 @@ def trapezoid_area(a, b, h):
 bok_a, bok_b, h, = 5, 10, 15
 
 print(trapezoid_area(bok_a, bok_b, h))
+
+# Pole kola
+def circle_area(r):
+    return math.pi * math.pow(r, 2)
+
+promien = 10
+
+print(circle_area(promien))
