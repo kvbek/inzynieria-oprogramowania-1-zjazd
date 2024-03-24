@@ -31,3 +31,12 @@ def circle_area(r):
 promien = 10
 
 print(circle_area(promien))
+
+
+# To do:
+# Moodle - swoje konto na githubie 
+# Trzeba miec historie zmian! 
+# Bedziemy wrzucac screenshoty commitow na github jako potwierdzenie ze cos tam robilismy 
+# Do konca semestru trzymac historie commitow!
+
+# Mozna bawic sie historia gita, manipulowac ja itp.
